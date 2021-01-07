@@ -2,7 +2,7 @@
 
 > A dark theme for [qt5](https://draculatheme.com/qt5).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./qt5.png)
 
 ## Install
 
@@ -12,9 +12,9 @@ All instructions can be found at [draculatheme.com/qt5](https://draculatheme.com
 
 This theme is maintained by Austin Kilgore and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Austin Kilgore](https://github.com/TechieAndroid.png?size=100)](https://github.com/TechieAndroid) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Austin Kilgore](https://github.com/TechieAndroid) |
 
 ## License
 
