@@ -2,7 +2,7 @@
 
 > A dark theme for [qt5](https://draculatheme.com/qt5).
 
-![Screenshot](./qt5.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
