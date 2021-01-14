@@ -1,6 +1,6 @@
-# Dracula for [qt5](https://draculatheme.com/qt5)
+# Dracula for [qt5](https://www.qt.io)
 
-> A dark theme for [qt5](https://draculatheme.com/qt5).
+> A dark theme for [qt5](https://www.qt.io).
 
 ![Screenshot](./screenshot.png)
 
