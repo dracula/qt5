@@ -2,7 +2,7 @@
 
 > A dark theme for [qt5](https://www.qt.io).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot1.png)
 
 ## Install
 
